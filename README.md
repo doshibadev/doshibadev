@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Arthur Duchene
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="35" /> Arthur Duchene
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Building+Native+Apps+%26+Web+Experiences;ML+%26+Systems+Programming)](https://git.io/typing-svg)
 
-**Currently working on** [**Lithium**](https://github.com/lithium-clr) — C# reimplementation of the Hytale server runtime
+**Currently working on** [**Lithium**](https://github.com/lithium-clr) → C# reimplementation of the Hytale server runtime
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-doshiba.xyz-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://doshiba.xyz)
 [![Email](https://img.shields.io/badge/Email-arthurduchene025@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurduchene025@gmail.com)
@@ -14,13 +14,13 @@
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎮 CPPCord
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Game" width="25" /> CPPCord
 **Native Discord client from scratch**
 
 Built in pure C++ using only Discord API and WebSockets. Features full message handling, markdown rendering, custom UI, and encrypted voice chat.
@@ -31,7 +31,7 @@ Built in pure C++ using only Discord API and WebSockets. Features full message h
 </td>
 <td width="50%">
 
-### ⚡ Lithium
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning" width="25" /> Lithium
 **Hytale server reimplementation**
 
 C# port of the Hytale server (like Spigot for Minecraft). Active development with full organization.
@@ -43,11 +43,11 @@ C# port of the Hytale server (like Spigot for Minecraft). Active development wit
 </tr>
 </table>
 
-**🤖 ML & Automation** — Training custom models for game ESP, workflow automation, and intelligent task handling beyond traditional scripting.
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" /> ML & Automation** → Training custom models for game ESP, workflow automation, and intelligent task handling beyond traditional scripting.
 
 ---
 
-## 💻 Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" /> Tech Stack
 
 ### Web Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -70,7 +70,7 @@ C# port of the Hytale server (like Spigot for Minecraft). Active development wit
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" /> GitHub Stats
 
 <div align="center">
 
@@ -84,7 +84,7 @@ C# port of the Hytale server (like Spigot for Minecraft). Active development wit
 
 ---
 
-## 🎯 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Developer" width="30" /> About Me
 
 ```typescript
 const arthur = {
@@ -97,15 +97,15 @@ const arthur = {
 };
 ```
 
-**🔍 What drives me:** I'm a perfectionist when it comes to code quality. I choose the optimal stack for each project based on actual requirements, not trends. From building encrypted voice chat in raw C++ to training ML models for automation — I focus on shipping real, working products.
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Search" width="20" /> What drives me:** I'm a perfectionist when it comes to code quality. I choose the optimal stack for each project based on actual requirements, not trends. From building encrypted voice chat in raw C++ to training ML models for automation → I focus on shipping real, working products.
 
 ---
 
-## 💼 Open to Opportunities
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="30" /> Open to Opportunities
 
 <div align="center">
 
-### 🎓 Actively seeking **internship opportunities**
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Grad Cap" width="25" /> Actively seeking **internship opportunities**
 
 **Software Engineering • Systems Development • ML Engineering**
 
@@ -120,6 +120,6 @@ const arthur = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=doshibadev&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
-**⚡ Building things that work, one commit at a time.**
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning" width="20" /> Building things that work, one commit at a time.**
 
 </div>
