@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="35" /> Arthur Duchene
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Building+Native+Apps+%26+Web+Experiences;ML+%26+Systems+Programming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Building+Native+Apps+%26+Backend+Systems;Systems+Programming+%26+Infrastructure)](https://git.io/typing-svg)
 
 **Currently working on** [**Lithium**](https://github.com/lithium-clr) → C# reimplementation of the Hytale server runtime
 
@@ -18,32 +18,41 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" alt="Game" width="25" /> CPPCord
-**Native Discord client from scratch**
+**Native Discord client**
 
-Built in pure C++ using only Discord API and WebSockets. Features full message handling, markdown rendering, custom UI, and encrypted voice chat.
+Built in pure C++ using Discord API and WebSockets. Features encrypted voice chat, real-time messaging, and platform-native credential storage.
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/doshibadev/cppcord)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="33%">
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" alt="Package" width="25" /> Mosaic
+**Package manager for Polytoria**
+
+Production-ready package manager with CLI, registry, and web interface. Dependency resolution, SHA256 verification, and centralized package distribution.
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/doshibadev/mosaic)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+</td>
+<td width="33%">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning" width="25" /> Lithium
 **Hytale server reimplementation**
 
-C# port of the Hytale server (like Spigot for Minecraft). Active development with full organization.
+C# port of the Hytale server runtime. Zero-cost abstractions, high-speed packet handling, and scalable architecture.
 
-[![Repo](https://img.shields.io/badge/View_Organization-181717?style=for-the-badge&logo=github)](https://github.com/lithium-clr)
+[![Repo](https://img.shields.io/badge/View_Org-181717?style=for-the-badge&logo=github)](https://github.com/lithium-clr)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 </td>
 </tr>
 </table>
-
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" /> ML & Automation** → Training custom models for game ESP, workflow automation, and intelligent task handling beyond traditional scripting.
 
 ---
 
@@ -54,8 +63,6 @@ C# port of the Hytale server (like Spigot for Minecraft). Active development wit
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
 ### Systems Programming
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -63,9 +70,13 @@ C# port of the Hytale server (like Spigot for Minecraft). Active development wit
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### Scripting & Tools
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Infrastructure & Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### Scripting
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ---
@@ -89,15 +100,15 @@ C# port of the Hytale server (like Spigot for Minecraft). Active development wit
 ```typescript
 const arthur = {
     age: "coding_since_12",
-    currentFocus: ["Lithium", "Web Development", "ML/AI"],
-    approach: "Perfectionist • Zero ESLint errors before beta • Best tool for each job",
-    philosophy: "Automate everything, ship real products",
-    learning: ["C#", ".NET"],
-    background: "Started with Roblox → Now building native apps, web experiences & ML tools"
+    currentFocus: ["Lithium", "Backend Systems", "Infrastructure"],
+    approach: "Perfectionist • Choosing the right tool for each job • Shipping production code",
+    philosophy: "Build systems that scale, architecture that lasts",
+    learning: ["C#", ".NET", "Game Server Architecture"],
+    background: "Started with Roblox → Now building native applications, backend infrastructure & systems programming"
 };
 ```
 
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Search" width="20" /> What drives me:** I'm a perfectionist when it comes to code quality. I choose the optimal stack for each project based on actual requirements, not trends. From building encrypted voice chat in raw C++ to training ML models for automation → I focus on shipping real, working products.
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Search" width="20" /> What drives me:** I'm focused on building high-performance, production-grade systems. From implementing encrypted voice chat in raw C++ to designing scalable package registries → I prioritize shipping real, working products with clean architecture and zero compromise on quality.
 
 ---
 
@@ -107,7 +118,7 @@ const arthur = {
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Grad Cap" width="25" /> Actively seeking **internship opportunities**
 
-**Software Engineering • Systems Development • ML Engineering**
+**Backend Engineering • Systems Programming • Infrastructure Development**
 
 [![Email Me](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurduchene025@gmail.com)
 [![Discord](https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
@@ -120,6 +131,6 @@ const arthur = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=doshibadev&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
-**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning" width="20" /> Building things that work, one commit at a time.**
+**<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning" width="20" /> Building systems that work, one commit at a time.**
 
 </div>
